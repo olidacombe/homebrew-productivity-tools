@@ -3,7 +3,7 @@
 ## Tools
 
 - [dgira](https://github.com/olidacombe/dgira) for Jira automation
-- [refalizer](https://github.com/olidacombe/refalizer) (coming soon) for generating compliant git branch names
+- [refalizer](https://github.com/olidacombe/refalizer) for generating compliant git branch names
 
 ## Installation
 
